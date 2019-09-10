@@ -8,11 +8,11 @@ http://stereopi.com
 
 Project Wiki:
 
-https://wiki.stereopi.com/index.php?title=Main_Page
+https://wiki.stereopi.com
 
 Project forum:
 
-https://forum.stereopi.com/index.php?sid=7fc6422c1680d2f60dc91465f7d306ae
+https://forum.stereopi.com
 
 Special thanks to Twitter user @Knochi 
 It was this man who was able to draw first edition of KiCad schematic from scratch!
