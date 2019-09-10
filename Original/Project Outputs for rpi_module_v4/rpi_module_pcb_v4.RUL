@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: E:\Projects\CLIENTS\Automatization\Project_StereoPi\Altium_project\rpi_module_v4\rpi_module_pcb_v4.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_intGnd|Scope=Board|Minimum=7.48
+RuleKind=Clearance|RuleName=Clearance_shelf|Scope=Board|Minimum=9.84
+RuleKind=Width|RuleName=Width_power|Scope=Board|Minimum=5.91
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

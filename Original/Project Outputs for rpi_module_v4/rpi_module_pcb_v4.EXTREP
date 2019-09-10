@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: rpi_module_pcb_v4.GBR   12.03.2019  9:46:13
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                L1_Top                                  
+.G1                 L2_Signal                               
+.GP1                L3_VCC                                  
+.GP2                L4_GND                                  
+.G2                 L5_Signal                               
+.GBL                L6_Bottom                               
+.GPB                Bottom Pad Master                       
+.GPT                Top Pad Master                          
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+------------------------------------------------------------------------------------------

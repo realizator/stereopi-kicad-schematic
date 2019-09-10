@@ -1,0 +1,29 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: rpi_module_pcb_v4.PcbDoc   12.03.2019  9:47:00
+---------------------------------------------------------------------------
+
+Layer Pair : L1_Top to L6_Bottom
+ASCII Plated RoundHoles File : rpi_module_pcb_v4-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : rpi_module_pcb_v4-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : rpi_module_pcb_v4-SlotHoles-Plated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.2mm (7.874mil)         Round          590              1312.20 mm (51.66 Inch)
+T2        0.5mm (19.685mil)        Slot           2                15.65 mm (0.62 Inch)
+T3        0.7mm (27.559mil)        Slot           2                18.04 mm (0.71 Inch)
+T4        0.8mm (31.496mil)        Round          3                4.00 mm (0.16 Inch)
+T5        0.85mm (33.465mil)       Round          2                5.00 mm (0.20 Inch)
+T6        1mm (39.37mil)           Round          28               243.49 mm (9.59 Inch)
+T7        1.6mm (62.992mil)        Round          2                15.75 mm (0.62 Inch)
+T8        2mm (78.74mil)           Round          4                205.00 mm (8.07 Inch)
+T9        2.5mm (98.425mil)        Round          4                24.50 mm (0.96 Inch)
+T10       1mm (39.37mil)           Round          2         NPTH   8.00 mm (0.31 Inch)
+T11       1.1mm (43.307mil)        Round          1         NPTH   0.00 mm (0.00 Inch)
+T12       1.3mm (51.181mil)        Round          2         NPTH   9.00 mm (0.35 Inch)
+T13       1.6mm (62.992mil)        Round          1         NPTH   0.00 mm (0.00 Inch)
+T14       3.3mm (129.921mil)       Round          2         NPTH   11.43 mm (0.45 Inch)
+---------------------------------------------------------------------------
+Totals                                            645              1872.05 mm (73.70 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

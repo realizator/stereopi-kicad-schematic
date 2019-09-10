@@ -1,0 +1,165 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +1V8_CORE
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP +1V8_ETH
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP +3.3V
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP +3V3A
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP +5V_USB_BOOT
+D Power flag, +5V
+K power-flag
+$ENDCMP
+#
+$CMP 1V8
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP 1V8_SW
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP 2N7002
+D 0.115A Id, 60V Vds, N-channel MOSFET, SOT-23
+K N-Channel Switching MOSFET
+F https://www.fairchildsemi.com/datasheets/2N/2N7002.pdf
+$ENDCMP
+#
+$CMP 3.3VCC
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP 3V3
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP 5VCC
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP 5VCC_EXT
+D Power flag, +5V
+K power-flag
+$ENDCMP
+#
+$CMP 5VCC_HDMI
+D Power flag, +5V
+K power-flag
+$ENDCMP
+#
+$CMP 5V_EXT
+D Power flag, +5V
+K power-flag
+$ENDCMP
+#
+$CMP AP2331SA-7
+D 0.2A SINGLE CHANNEL CURRENT-LIMITED LOAD SWITCH
+K Load Switch
+F https://www.diodes.com/assets/Datasheets/AP2331.pdf
+$ENDCMP
+#
+$CMP BSS138
+D 50V Vds, 0.22A Id, N-channel MOSFET, SOT-23
+K N-Channel MOSFET
+F https://www.fairchildsemi.com/datasheets/BS/BSS138.pdf
+$ENDCMP
+#
+$CMP DAC_2V5
+D Power flag, +5V
+K power-flag
+$ENDCMP
+#
+$CMP ESD5384
+D 5-line HDMI ESD Protection
+K esd, hdmi
+$ENDCMP
+#
+$CMP FSUBS42UMX
+F https://www.onsemi.com/pub/Collateral/FSUSB42-D.PDF
+$ENDCMP
+#
+$CMP LAN9513
+D Three USB 2.0 hub with an integrated 10/100 Ethernet controller (0°C to +70°C), QFN-48
+K USB HUB Ethernet 10/100
+F http://ww1.microchip.com/downloads/en/DeviceDoc/00002305A.pdf
+$ENDCMP
+#
+$CMP LAN9513i
+D Three USB 2.0 hub with an integrated 10/100 Ethernet controller (-40° to 85°C), QFN-48
+K USB HUB Ethernet 10/100
+F http://ww1.microchip.com/downloads/en/DeviceDoc/00002305A.pdf
+$ENDCMP
+#
+$CMP LM26420
+D Dual 2A Step-Down Voltage Regulator, HTSSOP20
+K Dual Step-Down Voltage Regulator 2A
+F http://www.ti.com/lit/ds/symlink/lm26420.pdf
+$ENDCMP
+#
+$CMP MMBF170
+D 60V Vds, 0.5 A Id, N-channel MOSFET, SOT-23
+K N-Channel MOSFET
+F https://www.diodes.com/assets/Datasheets/ds30104.pdf
+$ENDCMP
+#
+$CMP Pulse_J0011D01BNL
+D LAN Transformer Jack, RJ45, 10/100 BaseT
+K lan jack transformer
+F https://productfinder.pulseeng.com/doc_type/WEB301/doc_num/J403/doc_part/J403.pdf
+$ENDCMP
+#
+$CMP SHELF1_GND
+D Power flag, earth
+K power-flag ground gnd
+F ~
+$ENDCMP
+#
+$CMP SHELF_GND
+D Power flag, earth
+K power-flag ground gnd
+F ~
+$ENDCMP
+#
+$CMP SP3003-02
+D Ultra low capacitance double rail-to-rail ESD protection diode, SOT-32-5
+K ESD protection diode
+F https://m.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp3003_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP TPS70625DBVR
+D 150mA low dropout linear regulator, with enable, 2.5V fixed positive output, SOT-23-5 package
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/tps706.pdf
+$ENDCMP
+#
+$CMP USB_A_double
+D USB Type A connector
+K connector USB
+F  ~
+$ENDCMP
+#
+$CMP VBAT
+D Power flag, +5V
+K power-flag
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: E:\Projects\CLIENTS\Automatization\Project_StereoPi\Altium_project\rpi_module_v4\rpi_module_pcb_v4.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=rpi_module_pcb_v4-roundholes-plated.txt|DrillLayers=gtl,g2,gp1,gp2,g3,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=rpi_module_pcb_v4-slotholes-plated.txt|DrillLayers=gtl,g2,gp1,gp2,g3,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=rpi_module_pcb_v4-roundholes-nonplated.txt|DrillLayers=gtl,g2,gp1,gp2,g3,gbl

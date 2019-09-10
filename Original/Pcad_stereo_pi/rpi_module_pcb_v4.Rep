@@ -1,0 +1,248 @@
+Export log for : rpi_module_pcb_v4.Rep
+AddingPadStyle (Default)
+AddingPadStyle P:EX118Y118D791
+AddingPadStyle EF39X39TOP1
+AddingPadStyle EF39X39BOT1
+AddingPadStyle EF22X24TOP1
+AddingPadStyle P:EX55Y55D311
+AddingPadStyle P:SX55Y55D311
+AddingPadStyle P:RRX51Y79D281
+AddingPadStyle EF24X24TOP1
+AddingPadStyle EF31X47TOP1
+AddingPadStyle EF31X31TOP1
+AddingPadStyle EF114X39TOP1
+AddingPadStyle EF24X16TOP1
+AddingPadStyle EF24X12TOP1
+AddingPadStyle EF12X30TOP1
+AddingPadStyle EF276X276TOP1
+AddingPadStyle P:SX63Y63D391
+AddingPadStyle P:EX63Y63D391
+AddingPadStyle EF71X59TOP1
+AddingPadStyle EF79X98TOP1
+AddingPadStyle P:SX71Y75D201
+AddingPadStyle P:EX57Y57D331
+AddingPadStyle EF16X55TOP1
+AddingPadStyle EF59X75TOP1
+AddingPadStyle EF31X39TOP1
+AddingPadStyle EF59X142TOP1
+AddingPadStyle EF126X55TOP1
+AddingPadStyle EF26X9TOP1
+AddingPadStyle EF22X9TOP1
+AddingPadStyle EF71X17TOP1
+AddingPadStyle EF118X165TOP1
+AddingPadStyle EF22X39TOP1
+AddingPadStyle EF71X39TOP1
+AddingPadStyle P:EX0Y0D391
+AddingPadStyle EF28X63TOP1
+AddingPadStyle EF39X55TOP1
+AddingPadStyle EF63X55TOP1
+AddingPadStyle EF39X87TOP1
+AddingPadStyle P:EX63Y63D631
+AddingPadStyle P:EX43Y43D431
+AddingPadStyle EF14X79TOP1
+AddingPadStyle EF154X181TOP1
+AddingPadStyle P:EX130Y130D1301
+AddingPadStyle P:EX87Y87D631
+AddingPadStyle P:EX138Y138D981
+AddingPadStyle P:EX51Y51D511
+AddingPadStyle EF51X55TOP1
+AddingPadStyle EF51X87TOP1
+AddingPadStyle EF12X102TOP1
+AddingPadStyle EF24X75TOP1
+AddingPadStyle EF24X67TOP1
+AddingPadStyle EF71X47TOP1
+AddingPadStyle EF10X10TOP1
+AddingPadStyle EF16X20TOP1
+Adding ViaStyle (Default)
+Adding ViaStyle V:EX16Y16D81
+Adding TextStyle (Default)
+Adding TextStyle T:H59W12
+Adding TextStyle T:H35W8
+Adding TextStyle T:H39W8
+Adding TextStyle T:H31W7
+Adding TextStyle T:H60W10
+Adding TextStyle T:H31W6
+Adding TextStyle T:H31W8
+Adding PatternDef C0402_1
+Adding PatternDef SK12D07VG3_1
+Adding PatternDef C0402_2
+Adding PatternDef C0402_3
+Adding PatternDef C0805_1
+Adding PatternDef LED0603_1
+Adding PatternDef PLD_2x20 SMD RASPBERRY PI BOT_1
+Adding PatternDef R0402_1
+Adding PatternDef YC12_1
+Adding PatternDef L0402_1
+Adding PatternDef R0402_2
+Adding PatternDef QFN64-LAN9513_1
+Adding PatternDef PLS_1X4_1
+Adding PatternDef D-64_1
+Adding PatternDef L0603_1
+Adding PatternDef C_T_B_1
+Adding PatternDef USB MICRO_MOUNT_1
+Adding PatternDef SOT23_1
+Adding PatternDef R0402_3
+Adding PatternDef R0402_4
+Adding PatternDef R0603_1
+Adding PatternDef L_SNR4018_1
+Adding PatternDef FUSE-1812_1
+Adding PatternDef UMLP-10_1
+Adding PatternDef SOT23_2
+Adding PatternDef HTSSOP-20_1
+Adding PatternDef DBV-5_1
+Adding PatternDef C0402_4
+Adding PatternDef C0402_5
+Adding PatternDef C0402_6
+Adding PatternDef C1206_1
+Adding PatternDef C0603_1
+Adding PatternDef C1206_2
+Adding PatternDef MICROSD CARD_1
+Adding PatternDef SODIMM DDR2_1
+Adding PatternDef J0011D01BNL_1
+Adding PatternDef USB_2X1_STACKED_1
+Adding PatternDef HDMI_SMD_1
+Adding PatternDef B2B-EH_1
+Adding PatternDef FPC-15_VERTICAL_1
+Adding PatternDef FPC-15_VERTICAL_2
+Adding PatternDef C0402_7
+Adding PatternDef LED0603_2
+Adding PatternDef LED0603_3
+Adding PatternDef R0402_5
+Adding PatternDef R0402_6
+Adding PatternDef R0402_7
+Adding PatternDef R0402_8
+Adding PatternDef R1206_1
+Adding PatternDef ABM3_5X3.2_1
+Adding PatternDef WLCSP-9_1
+Adding PatternDef SC70-5_1
+Adding PatternDef YC12_2
+Adding PatternDef SC70-5_2
+Adding PatternDef PLS_1X2_1
+Adding CompDef C0402_1
+Adding CompDef SK12D07VG3_1
+Adding CompDef C0402_2
+Adding CompDef C0402_3
+Adding CompDef C0805_1
+Adding CompDef LED0603_1
+Adding CompDef PLD_2x20 SMD RASPBERRY PI BOT_1
+Adding CompDef R0402_1
+Adding CompDef YC12_1
+Adding CompDef L0402_1
+Adding CompDef R0402_2
+Adding CompDef QFN64-LAN9513_1
+Adding CompDef PLS_1X4_1
+Adding CompDef D-64_1
+Adding CompDef L0603_1
+Adding CompDef C_T_B_1
+Adding CompDef USB MICRO_MOUNT_1
+Adding CompDef SOT23_1
+Adding CompDef R0402_3
+Adding CompDef R0402_4
+Adding CompDef R0603_1
+Adding CompDef L_SNR4018_1
+Adding CompDef FUSE-1812_1
+Adding CompDef UMLP-10_1
+Adding CompDef SOT23_2
+Adding CompDef HTSSOP-20_1
+Adding CompDef DBV-5_1
+Adding CompDef C0402_4
+Adding CompDef C0402_5
+Adding CompDef C0402_6
+Adding CompDef C1206_1
+Adding CompDef C0603_1
+Adding CompDef C1206_2
+Adding CompDef MICROSD CARD_1
+Adding CompDef SODIMM DDR2_1
+Adding CompDef J0011D01BNL_1
+Adding CompDef USB_2X1_STACKED_1
+Adding CompDef HDMI_SMD_1
+Adding CompDef B2B-EH_1
+Adding CompDef FPC-15_VERTICAL_1
+Adding CompDef FPC-15_VERTICAL_2
+Adding CompDef C0402_7
+Adding CompDef LED0603_2
+Adding CompDef LED0603_3
+Adding CompDef R0402_5
+Adding CompDef R0402_6
+Adding CompDef R0402_7
+Adding CompDef R0402_8
+Adding CompDef R1206_1
+Adding CompDef ABM3_5X3.2_1
+Adding CompDef WLCSP-9_1
+Adding CompDef SC70-5_1
+Adding CompDef YC12_2
+Adding CompDef SC70-5_2
+Adding CompDef PLS_1X2_1
+      Warning: Unexpected Pad Object Found On Layer TopLayer.
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Unexpected Pad Object Found On Layer BottomLayer.
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Unexpected Free Track Object Found On Layer BottomOverlay.   This may cause problems in PCAD PCB
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer2.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer2.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer2.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer2.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer2.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer2.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer2.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer2.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer2.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer2.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer2.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer2.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer2.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer2.
+ 
+EndLog
