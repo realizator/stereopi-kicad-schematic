@@ -1,6 +1,7 @@
 # StereoPi
-This repo contains StereoPi schematic in KiCad.
-Originally all schematics has been created in Altium, and now we're in a process of porting it to KiCad.
+
+This repo contains StereoPi schematics in KiCad. 
+Originally, all schematics have been created in Altium, and now we're in the process of porting them to KiCad.
 
 ![StereoPi top photo](https://github.com/realizator/stereopi-kicad-schematic/raw/master/photos/stereopi-top.jpg)
 
