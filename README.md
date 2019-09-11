@@ -19,6 +19,7 @@ https://wiki.stereopi.com
 https://forum.stereopi.com
 
 **Special thanks to Twitter user @Knochi**
+
 It was this man who was able to draw first edition of KiCad schematic from scratch!
 
 Yes, this project is **Open Source**, and has been succesfully crowdfunded here:
