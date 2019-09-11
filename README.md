@@ -21,7 +21,7 @@ https://forum.stereopi.com
 
 **Special thanks to Twitter user @Knochi**
 
-It was this man who was able to draw first edition of KiCad schematic from scratch!
+This man has achieved the gargantuan feat of drawing the first edition of our KiCad schematic from scratch!
 
 Yes, this project is **Open Source**, and has been succesfully crowdfunded here:
 https://www.crowdsupply.com/virt2real/stereopi
