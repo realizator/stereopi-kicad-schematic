@@ -2,6 +2,10 @@
 This repo contains StereoPi schematic in KiCad.
 Originally all schematics has been created in Altium, and now we're in a process of porting it to KiCad.
 
+![StereoPi top photo](https://github.com/realizator/stereopi-kicad-schematic/raw/master/photos/stereopi-top.jpg)
+
+![StereoPi bottom photo](https://github.com/realizator/stereopi-kicad-schematic/raw/master/photos/stereopi-bottom.jpg)
+
 ### Project site: 
 
 http://stereopi.com
