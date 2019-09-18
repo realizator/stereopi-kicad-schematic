@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name StereoPi-rescue)(type Legacy)(uri ${KIPRJMOD}/StereoPi-rescue.lib)(options "")(descr ""))
+)
