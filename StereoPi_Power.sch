@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:StereoPi-cache
-EELAYER 26 0
+EELAYER 30 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
@@ -256,9 +256,9 @@ Wire Wire Line
 Wire Wire Line
 	14475 1025 14325 1025
 Wire Wire Line
-	12625 1325 12025 1325
+	12625 1325 11875 1325
 Wire Wire Line
-	12625 1475 12025 1475
+	12625 1475 11875 1475
 $Comp
 L Connector_Generic:Conn_01x02 JP?
 U 1 1 5D59F937
@@ -319,7 +319,7 @@ Wire Wire Line
 Wire Wire Line
 	2800 6850 3250 6850
 Wire Wire Line
-	3250 6150 3650 6150
+	2950 6150 3650 6150
 Wire Wire Line
 	3650 6150 3650 6650
 Wire Wire Line
@@ -405,7 +405,7 @@ Wire Wire Line
 Wire Wire Line
 	2750 7500 2750 7400
 Wire Wire Line
-	2550 7950 2750 7950
+	2075 7950 2750 7950
 Connection ~ 2750 7950
 $Comp
 L StereoPi-rescue:3V3-cstmParts #PWR?
@@ -444,13 +444,13 @@ Wire Wire Line
 	4250 6150 4250 6350
 Text Notes 1300 8400 0    50   ~ 10
 5V VCC USBA - power from USB (Host)\n5V VCC USBB - power from USB B (Slave, USB BOOT)
-Text Label 12025 1325 2    50   ~ 10
+Text Label 11875 1325 0    50   ~ 0
 EMMC_DISABLE_N
-Text Label 12025 1475 2    50   ~ 10
+Text Label 11875 1475 0    50   ~ 0
 EMMC_EN_N_1V8
-Text Label 3250 6150 2    50   ~ 10
+Text Label 2950 6150 0    50   ~ 0
 EMMC_DISABLE_N
-Text Label 2550 7950 2    50   ~ 10
+Text Label 2075 7950 0    50   ~ 0
 EMMC_EN_N_1V8
 $Comp
 L Device:C_Small C4

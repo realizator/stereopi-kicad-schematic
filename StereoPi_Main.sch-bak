@@ -42,7 +42,7 @@ Wire Wire Line
 Wire Wire Line
 	6150 2950 6050 2950
 $Comp
-L cstmParts:3V3 #PWR0101
+L StereoPi-rescue:3V3-cstmParts #PWR0101
 U 1 1 5D483BFB
 P 6050 2025
 F 0 "#PWR0101" H 6050 1875 50  0001 C CNN
@@ -180,7 +180,7 @@ F 3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&D
 	1    0    0    1   
 $EndComp
 $Comp
-L cstmParts:3V3 #PWR0105
+L StereoPi-rescue:3V3-cstmParts #PWR0105
 U 1 1 5D48EF49
 P 4500 1025
 F 0 "#PWR0105" H 4500 875 50  0001 C CNN
@@ -494,7 +494,7 @@ Wire Wire Line
 	5150 9500 5250 9500
 NoConn ~ 4550 8900
 $Comp
-L cstmParts:ESD5384 DD5
+L StereoPi-rescue:ESD5384-cstmParts DD5
 U 1 1 5D5313A0
 P 5100 6050
 F 0 "DD5" H 5600 6900 50  0000 R CNN
@@ -520,7 +520,7 @@ Wire Wire Line
 Wire Wire Line
 	3900 5450 4350 5450
 $Comp
-L cstmParts:IRML2502 VT5
+L StereoPi-rescue:IRML2502-cstmParts VT5
 U 1 1 5D56248E
 P 3300 5850
 F 0 "VT5" H 3506 5804 50  0000 L CNN
@@ -543,7 +543,7 @@ F 4 "DNP" H 2559 5659 50  0000 L CNN "Mount on PCB"
 	1    0    0    -1  
 $EndComp
 $Comp
-L cstmParts:3V3 #PWR0111
+L StereoPi-rescue:3V3-cstmParts #PWR0111
 U 1 1 5D573A01
 P 2500 5600
 F 0 "#PWR0111" H 2500 5450 50  0001 C CNN
@@ -595,7 +595,7 @@ Wire Wire Line
 Wire Wire Line
 	4300 6250 4500 6250
 $Comp
-L cstmParts:5VCC_HDMI #PWR0112
+L StereoPi-rescue:5VCC_HDMI-cstmParts #PWR0112
 U 1 1 5D5B1250
 P 4950 7000
 F 0 "#PWR0112" H 4950 6850 50  0001 C CNN
@@ -641,7 +641,7 @@ Connection ~ 4950 7100
 Wire Wire Line
 	4950 7100 4950 7200
 $Comp
-L cstmParts:IRML2502 VT6
+L StereoPi-rescue:IRML2502-cstmParts VT6
 U 1 1 5D5CD21C
 P 3700 9000
 F 0 "VT6" H 3906 8954 50  0000 L CNN
@@ -652,7 +652,7 @@ F 3 "" H 3700 9000 50  0001 L CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L cstmParts:1V8 #PWR0114
+L StereoPi-rescue:1V8-cstmParts #PWR0114
 U 1 1 5D5CD35F
 P 3700 8450
 F 0 "#PWR0114" H 3700 8300 50  0001 C CNN
@@ -779,7 +779,7 @@ Wire Wire Line
 	4450 6550 4450 6750
 NoConn ~ 4500 5550
 $Comp
-L KiCADinfo_RPi-modules:Board_RPi_CM3lite_200pConnector_multipart XS11
+L StereoPi-rescue:Board_RPi_CM3lite_200pConnector_multipart-KiCADinfo_RPi-modules-StereoPi-rescue XS11
 U 7 1 5D55FFEB
 P 9600 2250
 AR Path="/5D55FFEB" Ref="XS11"  Part="7" 
@@ -795,7 +795,7 @@ F 6 "1473005-4" H 15575 -600 10  0001 C CNN "Optn"
 	1    0    0    -1  
 $EndComp
 $Comp
-L cstmParts:Micro_SD_Card_Det-Connector J?
+L StereoPi-rescue:Micro_SD_Card_Det-Connector-cstmParts J?
 U 1 1 5D59A70B
 P 14400 2850
 AR Path="/5D59A70B" Ref="J?"  Part="1" 
@@ -810,7 +810,7 @@ F 5 "112J-TDAR-R01" H 0   0   50  0001 C CNN "Manf#"
 	1    0    0    -1  
 $EndComp
 $Comp
-L cstmParts:3V3 #PWR0117
+L StereoPi-rescue:3V3-cstmParts #PWR0117
 U 1 1 5D5E5CFE
 P 10750 1000
 F 0 "#PWR0117" H 10750 850 50  0001 C CNN
@@ -830,7 +830,7 @@ Connection ~ 10750 2100
 Wire Wire Line
 	10750 2100 10750 2250
 $Comp
-L cstmParts:3V3 #PWR0118
+L StereoPi-rescue:3V3-cstmParts #PWR0118
 U 1 1 5D604A75
 P 13450 1200
 F 0 "#PWR0118" H 13450 1050 50  0001 C CNN
@@ -1482,7 +1482,7 @@ Connection ~ 9225 8900
 Wire Wire Line
 	9225 8900 9275 8900
 $Comp
-L cstmParts:3V3 #PWR0132
+L StereoPi-rescue:3V3-cstmParts #PWR0132
 U 1 1 5E25001F
 P 9475 5450
 F 0 "#PWR0132" H 9475 5300 50  0001 C CNN
@@ -1500,7 +1500,7 @@ Connection ~ 9475 6050
 Wire Wire Line
 	9475 6050 9475 6200
 $Comp
-L cstmParts:5VCC #PWR0133
+L StereoPi-rescue:5VCC-cstmParts #PWR0133
 U 1 1 5E285C76
 P 9075 5450
 F 0 "#PWR0133" H 9075 5300 50  0001 C CNN
@@ -1619,7 +1619,7 @@ Connection ~ 9475 5550
 Wire Wire Line
 	9475 5550 9475 6050
 $Comp
-L KiCADinfo_RPi-modules:Board_RPi_CM3lite_200pConnector_multipart XS11
+L StereoPi-rescue:Board_RPi_CM3lite_200pConnector_multipart-KiCADinfo_RPi-modules-StereoPi-rescue XS11
 U 6 1 5E485D79
 P 13625 7400
 AR Path="/5E485D79" Ref="XS11"  Part="6" 
@@ -1635,7 +1635,7 @@ F 6 "1473005-4" H 19600 4550 10  0001 C CNN "Optn"
 	1    0    0    -1  
 $EndComp
 $Comp
-L StereoPi-rescue:Board_RPi_CM3lite_200pConnector_multipart-KiCADinfo_RPi-modules XS11
+L StereoPi-rescue:Board_RPi_CM3lite_200pConnector_multipart-KiCADinfo_RPi-modules-StereoPi-rescue XS11
 U 3 1 5E486445
 P 2000 2900
 AR Path="/5E486445" Ref="XS11"  Part="3" 
@@ -1651,7 +1651,7 @@ F 6 "1473005-4" H 7975 50  10  0001 C CNN "Optn"
 	1    0    0    -1  
 $EndComp
 $Comp
-L StereoPi-rescue:Board_RPi_CM3lite_200pConnector_multipart-KiCADinfo_RPi-modules XS11
+L StereoPi-rescue:Board_RPi_CM3lite_200pConnector_multipart-KiCADinfo_RPi-modules-StereoPi-rescue XS11
 U 4 1 5E486A9C
 P 2100 7750
 AR Path="/5E486A9C" Ref="XS11"  Part="4" 
@@ -1875,7 +1875,7 @@ Wire Wire Line
 NoConn ~ 10075 6600
 NoConn ~ 10075 6700
 $Comp
-L cstmParts:3V3 #PWR0139
+L StereoPi-rescue:3V3-cstmParts #PWR0139
 U 1 1 5E4E357A
 P 10300 6275
 F 0 "#PWR0139" H 10300 6125 50  0001 C CNN
@@ -1929,7 +1929,7 @@ Wire Wire Line
 Wire Wire Line
 	13300 2950 13300 3800
 $Comp
-L cstmParts:5VCC_HDMI #PWR0110
+L StereoPi-rescue:5VCC_HDMI-cstmParts #PWR0110
 U 1 1 5D54FA15
 P 3900 5100
 F 0 "#PWR0110" H 3900 4950 50  0001 C CNN
